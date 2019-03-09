@@ -1,0 +1,17 @@
+{
+  "name": "mrtinh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "big-number": "^2.0.0",
+    "bignumber.js": "^8.1.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "truffle-hdwallet-provider": "^1.0.4",
+    "web3": "1.0.0-beta.37"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
